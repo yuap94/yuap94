@@ -91,7 +91,7 @@ IBM AI Engineering Courses on Coursera
 ---
 
 ## Interests and extra-curricular activity
-🎻  🎹 📖 ♟️ 🚴 🏀 ⚽ 🎮 
+🎼 🎻 🎹 📖 ♟️ 🚴 🏀 ⚽ 🎮 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
