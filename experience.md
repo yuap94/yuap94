@@ -5,7 +5,7 @@ _AG Grötze, [Quantum chemistry of biological systems](http://jgoetze.userpage.f
 
 _Mar 2020 – Present, Berlin, Germany_
 
-- Developing a python package gmx2qmmm to perform a quantum mechanics/molecular mechanics calculation
+- Developing a python package [gmx2qmmm](https://gmx2qmmm.github.io/gmx2qmmm_io/) to perform a quantum mechanics/molecular mechanics calculation
 - Maintainer in Github
 - Database implementation for correction potential
 - Building the documentation of the package
@@ -14,7 +14,7 @@ _Mar 2020 – Present, Berlin, Germany_
 ---
 
 ### Student Assistant
-_Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI_
+[_Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI_](https://www.hhi.fraunhofer.de/en/departments/pn/research-groups/free-space-optical-systems.html)
 
 _Feb 2020 – Oct 2020, Berlin, Germany_
 
@@ -25,7 +25,7 @@ _Feb 2020 – Oct 2020, Berlin, Germany_
 ---
 
 ### Research Assistant
-_Industry 4.0 Implementation Center, Company Name National Taiwan University of Science and Technology_
+[_Industry 4.0 Implementation Center, Company Name National Taiwan University of Science and Technology_](https://www.industry4.ntust.edu.tw/index.php?Lang=en)
 
 _Jul 2016 – Jun 2017, Taipei, Taiwan_
 
