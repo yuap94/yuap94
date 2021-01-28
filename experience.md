@@ -1,7 +1,7 @@
 ## Experience 
 
 ### Software Developer 
-_AG Grötze, [Quantum chemistry of biological systems](http://jgoetze.userpage.fu-berlin.de)_
+[_AG Grötze, Quantum chemistry of biological systems, Free University of Berlin_](http://jgoetze.userpage.fu-berlin.de)
 
 _Mar 2020 – Present, Berlin, Germany_
 
