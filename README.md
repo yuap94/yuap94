@@ -1,4 +1,4 @@
-Hello World, I am Pi, 3.14159...
+Hello World, I am Pi
 
 # Software projects
 
