@@ -38,7 +38,8 @@ IBM AI Engineering Courses on Coursera
 - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS)
 
 ---
-### Experience [_See details_](experience.md)
+### Experience 
+[_See details_](experience.md)
 
 - **Software Developer**  _Mar 2020 – Present_
   - AG Grötze, Free University of Berlin
@@ -51,7 +52,8 @@ IBM AI Engineering Courses on Coursera
   
 ---
 
-### Projects [_See details_](projects.md)
+### Projects 
+[_See details_](projects.md)
 #### Software projects
 
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
