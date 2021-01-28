@@ -3,9 +3,9 @@
 ### Software Developer 
 _AG Grötze, [Quantum chemistry of biological systems](http://jgoetze.userpage.fu-berlin.de)_
 
-_Mar 2020 – Present_
+_Mar 2020 – Present, Berlin, Germany_
 
-Berlin, Germany
+
 
 - Developing a python package gmx2qmmm to perform a quantum mechanics/molecular mechanics calculation
 - Maintainer in Github
@@ -13,28 +13,23 @@ Berlin, Germany
 - Building the documentation of the package
 - Support for project students
 
-
+---
 
 ### Student Assistant
 _Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI_
 
-_Feb 2020 – Oct 2020_
-
-Berlin, Germany
+_Feb 2020 – Oct 2020, Berlin, Germany_
 
 - Jointly developing laser tracking GUI system with LabWindows/CVI 
 - Designing and analyzing tracking algorithm
 - Hands-on in the safe-laser laboratory
 
-
-
+---
 
 ### Research Assistant
 _Industry 4.0 Implementation Center, Company Name National Taiwan University of Science and Technology_
 
-_Jul 2016 – Jun 2017_
-
-Taipei City, Taiwan
+_Jul 2016 – Jun 2017, Taipei, Taiwan_
 
 Research Assistant in Industry 4.0 Implementation Center
 - The Center was inaugurated under the mandate of the Ministry of Education of Taiwan to spear ahead. 
