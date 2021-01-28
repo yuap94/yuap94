@@ -62,7 +62,7 @@ IBM AI Engineering Courses on Coursera
 - **Master internship project**: _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
 - **Bachelor project**:“_TDK Robocon_
 - **Bachelor research project**:_Low-cost flowmeter_
-- **Bachelor research project**:_Wind turbine Generator implementation iPBL (international Project-Based Learning_
+- **Bachelor research project**:_Wind turbine Generator implementation iPBL (international Project-Based Learning)_
 
 ---
 
