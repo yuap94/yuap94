@@ -29,11 +29,11 @@ _Passionate about machine learning and its application, with strong scientific k
   - Git 
   - Linux 
   - LaTeX & Markdown
-  - Microsoft Office
 - Software skills: 
   - Measuring software: LabWindows/CVI
-  - Drafting software: AutoCAD, SolidWorks
+  - Drafting software: AutoCAD, DraftSight, SolidWorks
   - Molecular software: VMD(Visual Molecular Dynamics), Turbomole, Gaussian, ORCA
+  - Microsoft Office
 - Scientific skills: 
   - Machine learning
   - Molecular science 
@@ -44,7 +44,7 @@ _Passionate about machine learning and its application, with strong scientific k
   - Chinese (native language)
   - English (fluent)
   - German (beginner)
-  - Taiwanese(beginner)
+  - Taiwanese (beginner)
 
 ---
 
