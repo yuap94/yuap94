@@ -17,7 +17,7 @@ _Passionate about machine learning and its application, with strong scientific k
   - Bachelor of Science in Mechanical Engineering 
   - Bachelor of Science in Electrical Engineering
 
-
+---
 
 ### Skills
 - Programming languages: 
@@ -45,11 +45,15 @@ _Passionate about machine learning and its application, with strong scientific k
   - German (beginner)
   - Taiwanese(beginner)
 
+---
+
 ### Publication
 
 > A user‐friendly, Python‐based quantum mechanics/Gromacs interface: gmx2qmmm
 > Jan P. Götze, Yuan‐Wei Pi, Simon Petry, Fabian Langkabel,  Jan Felix Witte, Oliver Lemke
 > [https://doi.org/10.1002/qua.26486](https://doi.org/10.1002/qua.26486)
+
+---
 
 ### Certifications
 IBM AI Engineering Courses on Coursera
