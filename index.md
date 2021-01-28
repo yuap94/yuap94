@@ -11,7 +11,7 @@ _Passionate about machine learning and its application, with strong scientific k
 
 - Free University of Berlin, Germany
   - Master of Science in Computational Science 
-  - Specialization Molecular Science
+  - Specialization in Molecular Science
 
 - National Taiwan University Science and Technology, Taipei, Taiwan
   - Bachelor of Science in Mechanical Engineering 
@@ -37,10 +37,21 @@ IBM AI Engineering Courses on Coursera
 - [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7)
 - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS)
 
+---
+### Experience [See details]
 
+- **Software Developer**  _Mar 2020 – Present_
+  - AG Grötze, Free University of Berlin
+
+- **Student Assistant** _Feb 2020 – Oct 2020_
+  -Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
+  
+- **Research Assistant** _Jul 2016 – Jun 2017_
+  - National Taiwan University of Science and Technology
+  
 ---
 
-### Projects
+### Projects [See details]
 #### Software projects
 
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
