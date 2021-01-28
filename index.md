@@ -1,6 +1,6 @@
 ## Yuan-Wei Pi
 
-_Passionate about machine learning and its application, with strong scientific knowledge, computational skills and 7+ years of scientific computing for successfully completing projects._
+_Passionate about machine learning and its application, with strong scientific knowledge, computational skills and 7+ years of programming experience for successfully completing projects._
 
 ---
 <!--You can use the [editor on GitHub](https://github.com/yuap94/yuap94/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.-->
@@ -67,7 +67,7 @@ IBM AI Engineering Courses on Coursera
 ---
 
 ### Interests and extra-curricular activity
-🏀 ⚽ 🚴 🎹 🎻 📖 ♟️ 🎮 
+🎻  🎹 📖 ♟️ 🚴 🏀 ⚽ 🎮 ![Alt Text](https://play-lh.googleusercontent.com/B7gvk876p9462kAC9f4yvx7CqyN9QymTemli95MFcrqKDqxt8SGrm_GzP-dyXpFUL7k)
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
