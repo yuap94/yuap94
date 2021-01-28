@@ -1,8 +1,12 @@
 ## Projects
 
+---
+
 ### Software projects
 
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
+
+---
 
 ### Other projects
 
@@ -28,5 +32,7 @@ Jointly developed this project with peers from Osaka Institute of Science and te
 
 - [Report](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/pbl.pdf)
 - [Video](https://drive.google.com/file/d/0B-XOMB-MCBcmeFFSNEhBZzRjMlE/view?usp=sharing)
+
+---
 
 [Back to HOME](index)
