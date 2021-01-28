@@ -1,6 +1,6 @@
 ## Yuan-Wei Pi
 
-_Passionate about machine learning and its application, with strong scientific knowledge, computa- tional skills and 7+ years of scientific computing for successfully completing projects._
+_Passionate about machine learning and its application, with strong scientific knowledge, computational skills and 7+ years of scientific computing for successfully completing projects._
 
 <!--You can use the [editor on GitHub](https://github.com/yuap94/yuap94/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.-->
 
