@@ -1,5 +1,8 @@
 Hello World, I am Pi 😄
-[Personal profile](https://yuap94.github.io/yuap94/)
+
+>Passionate about machine learning and its application, with strong scientific knowledge, computa- tional skills and 7+ years of scientific computing for successfully completing projects.
+
+Here is my [personal profile](https://yuap94.github.io/yuap94/)
 
 # Software projects
 
