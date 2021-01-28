@@ -65,13 +65,13 @@ IBM AI Engineering Courses on Coursera
 ### Experience  <sub><sup>[_See details_](experience)</sup></sub>
 
 - **Software Developer**  _Mar 2020 – Present_
-  - AG Grötze, Free University of Berlin
+  - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
 
 - **Student Assistant** _Feb 2020 – Oct 2020_
-  - Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
+  - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
   
 - **Research Assistant** _Jul 2016 – Jun 2017_
-  - National Taiwan University of Science and Technology
+  - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
   
 ---
 
