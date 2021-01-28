@@ -35,7 +35,7 @@ IBM AI Engineering Courses on Coursera
 - AI Capstone Project with Deep Learning
 
 ## Interests and extra-curricular activity
-:basketball:  :soccer:   :musical_keyboard: :violin: ♞
+🏀 ⚽ 🚴 🎹 🎻 📖 ♟️ 🎮 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
