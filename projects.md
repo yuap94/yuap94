@@ -7,7 +7,7 @@
 ### Other projects
 
 
-### Master thesis : _Interfaces between quantum chemistry and force field programs_
+### Master thesis : [_Interfaces between quantum chemistry and force field programs_](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Master_thesis.pdf)
 
 Jointly designed a python package gmx2qmmm, which links quantum mechanics software and molecular mechanics software to perform a quantum mechanics/molecular mechanics calculation. Especially worked on tests of energies and forces output with different bio-molecules. More utilities implementation are ongoing.
 
