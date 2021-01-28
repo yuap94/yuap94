@@ -2,6 +2,7 @@
 
 _Passionate about machine learning and its application, with strong scientific knowledge, computational skills and 7+ years of scientific computing for successfully completing projects._
 
+---
 <!--You can use the [editor on GitHub](https://github.com/yuap94/yuap94/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.-->
 
 <!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
@@ -16,25 +17,29 @@ _Passionate about machine learning and its application, with strong scientific k
 
 
 
-## Skills
+### Skills
 + Programming languages: Python, Matlab, C/C++, Haskell.
 + Computer skills: Git, Linux, OpenCV with Python, LaTeX
 + Software skills: LabWindows/CVI, AutoCAD, SolidWorks
 + Scientific skills: Machine learning, Molecular science, Mechatronics, Numerical analysis, Statistics
 + Language skills: Chinese (native language), English (fluent), German (beginner), Taiwanese(beginner)
 
-## Publication
+### Software projects
+
+- [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
+
+### Publication
 
 > A user‐friendly, Python‐based quantum mechanics/Gromacs interface: gmx2qmmm
 > Jan P. Götze, Yuan‐Wei Pi, Simon Petry, Fabian Langkabel,  Jan Felix Witte, Oliver Lemke
 > [https://doi.org/10.1002/qua.26486](https://doi.org/10.1002/qua.26486)
 
-## Certifications
+### Certifications
 IBM AI Engineering Courses on Coursera
 - Deep Neural Networks with PyTorch
 - AI Capstone Project with Deep Learning
 
-## Interests and extra-curricular activity
+### Interests and extra-curricular activity
 🏀 ⚽ 🚴 🎹 🎻 📖 ♟️ 🎮 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
