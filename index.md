@@ -1,4 +1,4 @@
-## Yuan-Wei Pi
+# Yuan-Wei Pi
 
 _Passionate about machine learning and its application, with strong scientific knowledge, computational skills and 7+ years of programming experience for successfully completing projects._
 
@@ -7,7 +7,7 @@ _Passionate about machine learning and its application, with strong scientific k
 
 <!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-### Education
+## Education
 
 - **Free University of Berlin**, _Oct 2017 – May 2020, Germany_
   - Master of Science in Computational Science 
@@ -19,7 +19,7 @@ _Passionate about machine learning and its application, with strong scientific k
 
 ---
 
-### Skills
+## Skills
 - Programming languages: 
   - Python (Numpy, Pandas, Matplotlob, PyTorch, Scipy, OpenCV) 
   - Matlab
@@ -48,7 +48,7 @@ _Passionate about machine learning and its application, with strong scientific k
 
 ---
 
-### Publication
+## Publication
 
 > A user‐friendly, Python‐based quantum mechanics/Gromacs interface: gmx2qmmm
 > Jan P. Götze, Yuan‐Wei Pi, Simon Petry, Fabian Langkabel,  Jan Felix Witte, Oliver Lemke
@@ -56,13 +56,13 @@ _Passionate about machine learning and its application, with strong scientific k
 
 ---
 
-### Certifications
+## Certifications
 IBM AI Engineering Courses on Coursera
 - [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7)
 - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS)
 
 ---
-### Experience  <sub><sup>[_See details_](experience)</sup></sub>
+## Experience  <sub><sup>[_See details_](experience)</sup></sub>
 
 - **Software Developer**  _Mar 2020 – Present_
   - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
@@ -75,7 +75,7 @@ IBM AI Engineering Courses on Coursera
   
 ---
 
-### Projects  <sub><sup> [_See details_](projects)</sup></sub>
+## Projects  <sub><sup> [_See details_](projects)</sup></sub>
 
 #### Software projects
 
@@ -90,7 +90,7 @@ IBM AI Engineering Courses on Coursera
 
 ---
 
-### Interests and extra-curricular activity
+## Interests and extra-curricular activity
 🎻  🎹 📖 ♟️ 🚴 🏀 ⚽ 🎮 
 
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
