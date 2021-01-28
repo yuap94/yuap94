@@ -31,8 +31,9 @@ _Passionate about machine learning and its application, with strong scientific k
   - LaTeX & Markdown
   - Microsoft Office
 - Software skills: 
-  - LabWindows/CVI
-  - AutoCAD & SolidWorks
+  - Measuring software: LabWindows/CVI
+  - Drafting software: AutoCAD, SolidWorks
+  - Molecular software: VMD(Visual Molecular Dynamics), Turbomole, Gaussian, ORCA
 - Scientific skills: 
   - Machine learning
   - Molecular science 
