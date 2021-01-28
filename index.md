@@ -32,8 +32,8 @@ _Passionate about machine learning and its application, with strong scientific k
 
 ### Certifications
 IBM AI Engineering Courses on Coursera
-- Deep Neural Networks with PyTorch
-- AI Capstone Project with Deep Learning
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7)
+- [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS)
 
 
 ---
