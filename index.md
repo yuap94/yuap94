@@ -9,11 +9,11 @@ _Passionate about machine learning and its application, with strong scientific k
 
 ### Education
 
-- Free University of Berlin, Germany
+- **Free University of Berlin**, _Oct 2017 – May 2020, Germany_
   - Master of Science in Computational Science 
   - Specialization in Molecular Science
 
-- National Taiwan University Science and Technology, Taipei, Taiwan
+- **National Taiwan University Science and Technology**, _Sep 2012 – Jun 2016, Taipei, Taiwan_
   - Bachelor of Science in Mechanical Engineering 
   - Bachelor of Science in Electrical Engineering
 
