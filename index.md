@@ -34,6 +34,9 @@ IBM AI Engineering Courses on Coursera
 - Deep Neural Networks with PyTorch
 - AI Capstone Project with Deep Learning
 
+## Interests and extra-curricular activity
+:basketball: 
+
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
 <!--### Jekyll Themes-->
