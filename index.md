@@ -44,7 +44,7 @@ IBM AI Engineering Courses on Coursera
   - AG Grötze, Free University of Berlin
 
 - **Student Assistant** _Feb 2020 – Oct 2020_
-  -Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
+  - Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
   
 - **Research Assistant** _Jul 2016 – Jun 2017_
   - National Taiwan University of Science and Technology
@@ -58,11 +58,16 @@ IBM AI Engineering Courses on Coursera
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
 
 #### Other projects
-- **Master thesis**: _Interfaces between quantum chemistry and force field programs_
-- **Master internship project**: _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
-- **Bachelor project**:“_TDK Robocon_
-- **Bachelor research project**:_Low-cost flowmeter_
-- **Bachelor research project**:_Wind turbine Generator implementation iPBL (international Project-Based Learning)_
+- **Master thesis** 
+  - _Interfaces between quantum chemistry and force field programs_
+- **Master internship project**: 
+  - _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
+- **Bachelor project**: 
+  - _TDK Robocon_
+- **Bachelor research project**
+  - _Low-cost flowmeter_
+- **Bachelor research project**:  
+  - _Wind turbine Generator implementation iPBL_
 
 ---
 
