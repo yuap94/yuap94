@@ -20,11 +20,30 @@ _Passionate about machine learning and its application, with strong scientific k
 
 
 ### Skills
-+ Programming languages: Python, Matlab, C/C++, Haskell.
-+ Computer skills: Git, Linux, OpenCV with Python, LaTeX
-+ Software skills: LabWindows/CVI, AutoCAD, SolidWorks
-+ Scientific skills: Machine learning, Molecular science, Mechatronics, Numerical analysis, Statistics
-+ Language skills: Chinese (native language), English (fluent), German (beginner), Taiwanese(beginner)
+- Programming languages: 
+  - Python (Numpy, Pandas, Matplotlob, PyTorch, Scipy, OpenCV) 
+  - Matlab
+  - C/C++
+  - Haskell
+- Computer skills: 
+  - Git 
+  - Linux 
+  - LaTeX & Markdown
+  - Microsoft Office
+- Software skills: 
+  - LabWindows/CVI
+  - AutoCAD & SolidWorks
+- Scientific skills: 
+  - Machine learning
+  - Molecular science 
+  - Mechatronics
+  - Numerical analysis
+  - Statistics
+- Language skills: 
+  - Chinese (native language)
+  - English (fluent)
+  - German (beginner)
+  - Taiwanese(beginner)
 
 ### Publication
 
