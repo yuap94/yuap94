@@ -5,8 +5,6 @@ _AG Grötze, [Quantum chemistry of biological systems](http://jgoetze.userpage.f
 
 _Mar 2020 – Present, Berlin, Germany_
 
-
-
 - Developing a python package gmx2qmmm to perform a quantum mechanics/molecular mechanics calculation
 - Maintainer in Github
 - Database implementation for correction potential
@@ -31,7 +29,6 @@ _Industry 4.0 Implementation Center, Company Name National Taiwan University of 
 
 _Jul 2016 – Jun 2017, Taipei, Taiwan_
 
-Research Assistant in Industry 4.0 Implementation Center
 - The Center was inaugurated under the mandate of the Ministry of Education of Taiwan to spear ahead. 
 - Designing Android based for the interface of signature cut on work piece in real time
 - Transfer data from machine tools
