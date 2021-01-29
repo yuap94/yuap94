@@ -41,13 +41,13 @@ Designed functions oriented robot including mechanism and control system with li
 - [Piece of testing](https://www.youtube.com/watch?v=HQaD9iXR8X8&feature=youtu.be)
 
 
-### Bachelor research project :_Low-cost flowmeter_
+### Bachelor project :_Low-cost flowmeter_
 
 Jointly conceptualized, designed and developed this project with peers from Munich University of Applied Sciences, Germany. Designed mechanism and control system to measure flow rate with cheap material and display data through different program interfaces.
 
 - [Report](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Flow-Meter.pdf)
 
-### Bachelor research project : _Wind turbine Generator implementation iPBL (international Project-Based Learning)_
+### Bachelor project : _Wind turbine Generator implementation iPBL (international Project-Based Learning)_
 
 Jointly developed this project with peers from Osaka Institute of Science and technology, Japan. Designed high efficiency blades, aerodynamic compressing lens and supporting structure to improve the efficiency of the wind turbine power and output with 3D printing.
 
