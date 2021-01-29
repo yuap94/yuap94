@@ -3,7 +3,7 @@
 ### Software Developer 
 [_AG Grötze-Quantum chemistry of biological systems, Free University of Berlin_](http://jgoetze.userpage.fu-berlin.de)
 
-_Mar 2020 – Present, Berlin, Germany_
+_Apr 2020 – Present, Berlin, Germany_
 
 - Developing a python package [gmx2qmmm](https://gmx2qmmm.github.io/gmx2qmmm_io/) to perform a quantum mechanics/molecular mechanics calculation
 - Maintainer in Github
