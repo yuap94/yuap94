@@ -17,6 +17,20 @@ _Passionate about machine learning and its application, with strong scientific k
   - Bachelor of Science in Mechanical Engineering 
   - Bachelor of Science in Electrical Engineering
 
+
+---
+
+## Experience  <sub><sup>[_See details_](experience)</sup></sub>
+
+- **Software Developer**  _Mar 2020 – Present_
+  - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
+
+- **Student Assistant** _Feb 2020 – Oct 2020_
+  - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
+  
+- **Research Assistant** _Jul 2016 – Jun 2017_
+  - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
+  
 ---
 
 ## Skills
@@ -46,18 +60,6 @@ _Passionate about machine learning and its application, with strong scientific k
   - German (beginner)
   - Taiwanese (beginner)
 
----
-## Experience  <sub><sup>[_See details_](experience)</sup></sub>
-
-- **Software Developer**  _Mar 2020 – Present_
-  - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
-
-- **Student Assistant** _Feb 2020 – Oct 2020_
-  - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
-  
-- **Research Assistant** _Jul 2016 – Jun 2017_
-  - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
-  
 ---
 
 ## Awards
