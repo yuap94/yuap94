@@ -13,7 +13,7 @@
 
 ---
 
-## Other projects
+## Research projects
 
 
 ### Master thesis : _Interfaces between quantum chemistry and force field programs_
@@ -27,6 +27,11 @@ Jointly designed a python package gmx2qmmm, which links quantum mechanics softwa
 Used density functional theory (DFT) calculation with different functionals to observe nitrogen substitution effect on pyrene and its derivatives and analyzing the ground and excited state properties.
 
 - [Report](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Internship_neu.pdf)
+
+---
+
+## Hands-on projects
+
 
 ### Bachelor project : _TDK Robocon_ 
 
