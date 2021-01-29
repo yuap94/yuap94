@@ -22,7 +22,7 @@ _Passionate about machine learning and its application, with strong scientific k
 
 ## Experience  <sub><sup>[_See details_](experience)</sup></sub>
 
-- **Software Developer**  _Mar 2020 – Present_
+- **Software Developer**  _Apr 2020 – Present_
   - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
 
 - **Student Assistant** _Feb 2020 – Oct 2020_
