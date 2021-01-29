@@ -47,6 +47,7 @@ _Passionate about machine learning and its application, with strong scientific k
   - Measuring software: LabWindows/CVI
   - Drafting software: AutoCAD, DraftSight, SolidWorks
   - Molecular software: VMD(Visual Molecular Dynamics), Turbomole, Gaussian, ORCA
+  - Music software: Logic Pro X, Garageband, Sibelius
   - Microsoft Office
 - Scientific skills: 
   - Machine learning
