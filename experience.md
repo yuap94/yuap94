@@ -31,7 +31,7 @@ _Jul 2016 – Jun 2017, Taipei, Taiwan_
 
 - The Center was inaugurated under the mandate of the Ministry of Education of Taiwan to spear ahead. 
 - Designing Android-based for the interface of signature cut on the workpiece in real-time
-- Transfer data from machine tools
+- Transferring data from machine tools
 - Hosting foreign dignitaries
 
 ---
