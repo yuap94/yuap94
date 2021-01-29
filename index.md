@@ -47,6 +47,29 @@ _Passionate about machine learning and its application, with strong scientific k
   - Taiwanese (beginner)
 
 ---
+## Experience  <sub><sup>[_See details_](experience)</sup></sub>
+
+- **Software Developer**  _Mar 2020 – Present_
+  - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
+
+- **Student Assistant** _Feb 2020 – Oct 2020_
+  - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
+  
+- **Research Assistant** _Jul 2016 – Jun 2017_
+  - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
+  
+---
+
+## Awards
+
+- **19th TDK Robocon, Taiwan** _Oct 2015_
+  - Judges' Award
+
+- **Mechanical System Design and Practice, NTUST** _Jun 2015_
+  - Honorable Mention / Best Creative Award
+
+
+---
 
 ## Publication
 
@@ -62,18 +85,7 @@ IBM AI Engineering Courses on Coursera
 - [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS)
 
 ---
-## Experience  <sub><sup>[_See details_](experience)</sup></sub>
 
-- **Software Developer**  _Mar 2020 – Present_
-  - AG Grötze-Quantum chemistry of biological systems, Free University of Berlin
-
-- **Student Assistant** _Feb 2020 – Oct 2020_
-  - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
-  
-- **Research Assistant** _Jul 2016 – Jun 2017_
-  - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
-  
----
 
 ## Projects  <sub><sup> [_See details_](projects)</sup></sub>
 
