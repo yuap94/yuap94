@@ -42,6 +42,7 @@ _Passionate about machine learning and its application, with strong scientific k
 - Computer skills: 
   - Git 
   - Linux 
+  - IBM cloud
   - LaTeX & Markdown
 - Software skills: 
   - Measuring software: LabWindows/CVI
