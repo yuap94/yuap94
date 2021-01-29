@@ -28,9 +28,18 @@ Used density functional theory (DFT) calculation with different functionals to o
 
 [Report](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Internship_neu.pdf)
 
-#### Bachelor project : _TDK Robocon_ <!-- https://www.youtube.com/watch?v=H_iUjzjunIo-->
+#### Bachelor project : _TDK Robocon_ 
 
-Designed functions oriented robot including mechanism and control system, to participate 19th TDK competition and earned Judges’ Award. The robot includes moving, gripping pen and ball, writing characters and shooting ball motions.
+Designed functions oriented robot including mechanism and control system, to participate 19th TDK robot competition. The robot includes moving, gripping pen and ball, writing characters and shooting ball motions. Our team won **Judges’ Award**.
+
+[Documentory](https://www.youtube.com/watch?v=H_iUjzjunIo)
+
+#### Bachelor project : _Mechanical System Design and Practice_
+
+Designed functions oriented robot including mechanism and control system with limited budget. The robot participated 2015 Mechanical System Design and Practice Competetion at the mechanical faculty in National Taiwan University and Science and Technology. The robot was able to move, collect tennis ball and shoot the required target. Our team won **Honorable Mention / Best Creative Award**.
+
+[Collecting ball testing](https://www.youtube.com/watch?v=HQaD9iXR8X8&feature=youtu.be)
+
 
 #### Bachelor research project :_Low-cost flowmeter_
 
