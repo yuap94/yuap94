@@ -1,6 +1,6 @@
 Hello World, I am Pi 😄
 
->Passionate about machine learning and its application, with strong scientific knowledge, computational skills and 7+ years of programming experience for successfully completing projects.
+>Passionate about learning novel techniques and its application, with strong scientific knowledge, computational skills and 7+ years of programming experience for successfully completing projects.
 
 Here is my [personal profile](https://yuap94.github.io/yuap94/)
 
