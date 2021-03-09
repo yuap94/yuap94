@@ -11,7 +11,7 @@ Here is my [personal profile](https://yuap94.github.io/yuap94/)
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
 
 
-# Machine Learning notes (Still uploading)
+# Machine Learning notes (keep uploading)
 
 - Machine Learning Useful Math
 - GAN
