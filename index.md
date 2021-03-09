@@ -100,14 +100,14 @@ IBM AI Engineering Courses on Coursera
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
 
 #### Research projects
-- Master thesis - _Interfaces between quantum chemistry and force field programs_
-- Master internship project - _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
+- _Interfaces between quantum chemistry and force field programs_
+- _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
 
 #### Hands-on projects
-- Bachelor project - _TDK Robocon_
-- Bachelor project - _Mechanical System Design and Practice_
-- Bachelor project - _Low-cost flowmeter_
-- Bachelor project - _Wind turbine Generator implementation iPBL_
+- _TDK Robocon_
+- _Mechanical System Design and Practice_
+- _Low-cost flowmeter_
+- _Wind turbine Generator implementation iPBL_
 
 ---
 
