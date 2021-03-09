@@ -10,6 +10,13 @@ Here is my [personal profile](https://yuap94.github.io/yuap94/)
 
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
 
+
+# Machine Learning notes (Still uploading)
+
+- Machine Learning Useful Math
+- GAN
+- [Feature Engineering Tips](https://github.com/yuap94/Feature_Tips)
+
 <!--
 **yuap94/yuap94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
