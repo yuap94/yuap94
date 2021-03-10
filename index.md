@@ -32,7 +32,7 @@ _Passionate about learning novel technique and its application, with strong scie
   - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
   
 ---
-<!--
+
 ## Skills
 - Programming languages: 
   - Python (Numpy, Pandas, Matplotlob, PyTorch, Scipy, OpenCV) 
@@ -61,10 +61,10 @@ _Passionate about learning novel technique and its application, with strong scie
   - English (fluent)
   - German (beginner)
   - Taiwanese (beginner)
+  - Janpanese (beginner)
 
 ---
 
--->
 
 ## Awards
 
