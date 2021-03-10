@@ -16,6 +16,7 @@ Here is my [personal profile](https://yuap94.github.io/yuap94/)
 - Machine Learning Useful Math
 - GAN
 - [Feature Engineering Tips](https://github.com/yuap94/Feature_Tips)
+- [The Next Step of ML](https://gitlab.com/yuanweipi/next_ML)
 
 <!--
 **yuap94/yuap94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
