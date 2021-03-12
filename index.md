@@ -33,6 +33,24 @@ _Passionate about learning novel technique and its application, with strong scie
   
 ---
 
+## Projects  <sub><sup> [_See details_](projects)</sup></sub>
+
+#### Software projects
+
+- [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
+
+#### Research projects
+- _Interfaces between quantum chemistry and force field programs_
+- _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
+
+#### Hands-on projects
+- _TDK Robocon_
+- _Mechanical System Design and Practice_
+- _Low-cost flowmeter_
+- _Wind turbine Generator implementation iPBL_
+
+---
+
 ## Skills
 - Programming languages: 
   - Python (Numpy, Pandas, Matplotlob, PyTorch, Scipy, OpenCV) 
@@ -92,24 +110,6 @@ IBM AI Engineering Courses on Coursera
 
 ---
 
-
-## Projects  <sub><sup> [_See details_](projects)</sup></sub>
-
-#### Software projects
-
-- [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
-
-#### Research projects
-- _Interfaces between quantum chemistry and force field programs_
-- _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
-
-#### Hands-on projects
-- _TDK Robocon_
-- _Mechanical System Design and Practice_
-- _Low-cost flowmeter_
-- _Wind turbine Generator implementation iPBL_
-
----
 
 ## Interests and extra-curricular activity
 🎼 🎻 🎹 📖 ♟️ 🚴 🏀 ⚽ 🎮 
