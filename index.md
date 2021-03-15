@@ -75,10 +75,9 @@ _Passionate about learning novel technique and its application, with strong scie
   - Numerical analysis
   - Statistics
 - Language skills: 
-  - Chinese (native language)
-  - English (fluent)
-  - German (beginner)
-  - Taiwanese (beginner)
+  - Mandarin (mother tongue)
+  - English (business fluent)
+  - German (intermediate)
   - Janpanese (beginner)
 
 ---
