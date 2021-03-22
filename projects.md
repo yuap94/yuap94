@@ -33,26 +33,26 @@ Used density functional theory (DFT) calculation with different functionals to o
 ### Hands-on projects
 
 
-#### Bachelor project : _TDK Robocon_ 
+#### _TDK Robocon_ 
 
 Designed functions oriented robot including mechanism and control system, to participate _19th TDK robot competition_. The robot includes moving, gripping pen and ball, writing characters and shooting ball motions. Our team won **Judges’ Award**.
 
 - [Documentory](https://www.youtube.com/watch?v=H_iUjzjunIo)
 
-#### Bachelor project : _Mechanical System Design and Practice_
+#### _Mechanical System Design and Practice_
 
 Designed functions oriented robot including mechanism and control system with limited budget. The robot participated _2015 Mechanical System Design and Practice Competetion_ at the mechanical faculty in National Taiwan University and Science and Technology. The robot was able to move, collect tennis ball and shoot the required target. Our team won **Honorable Mention / Best Creative Award**.
 
 - [Piece of testing](https://www.youtube.com/watch?v=HQaD9iXR8X8&feature=youtu.be)
 
 
-#### Bachelor project :_Low-cost flowmeter_
+#### _Low-cost flowmeter_
 
 Jointly conceptualized, designed and developed this project with peers from Munich University of Applied Sciences, Germany. Designed mechanism and control system to measure flow rate with cheap material and display data through different program interfaces.
 
 - [Report](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Flow-Meter.pdf)
 
-#### Bachelor project : _Wind turbine Generator implementation iPBL (international Project-Based Learning)_
+#### _Wind turbine Generator implementation iPBL (international Project-Based Learning)_
 
 Jointly developed this project with peers from Osaka Institute of Science and technology, Japan. Designed high efficiency blades, aerodynamic compressing lens and supporting structure to improve the efficiency of the wind turbine power and output with 3D printing.
 
