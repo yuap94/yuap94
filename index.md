@@ -1,6 +1,6 @@
 # Yuan-Wei Pi
 
-_Passionate about learning novel technique and its application, with strong scientific knowledge, hands-on skills and 7+ years of programming experience for successfully completing projects._
+_Engineering expert turned strategic leader—passionate about blending technical excellence with management insights. Quick to learn, sharp in observation, and thoughtful in decision-making. Backed by strong scientific expertise, hands-on problem-solving, and 10 years of programming experience, driving successful project execution and innovation._
 
 ---
 <!--You can use the [editor on GitHub](https://github.com/yuap94/yuap94/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.-->
