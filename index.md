@@ -31,7 +31,7 @@ _Engineering expert turned strategic leader—passionate about blending technica
 - **Software and quantum applications development engineer**  _Apr 2021 – Oct 2024 Berlin, Germany_
   - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
 
-- **Software Developer**  _Apr 2020 – Mar 2021 Berlin
+- **Software Developer**  _Apr 2020 – Mar 2021 Berlin_
   - AG Grötze, Institute of Chemistry and Biochemistry, Free University of Berlin
 
 - **Student Assistant** _Feb 2020 – Oct 2020 Berlin, Germany_
