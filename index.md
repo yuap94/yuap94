@@ -20,7 +20,7 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 ---
 
-## Work Experience
+## Work Experience  <sub><sup> [_See details_](experience)</sup></sub>
 
 - **Head of Research and Development, Germany** _May 2024 – Feb 2025, Berlin, Germany_
   - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
