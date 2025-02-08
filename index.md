@@ -20,15 +20,24 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 ---
 
-## Experience  <sub><sup>[_See details_](experience)</sup></sub>
+## Work Experience
 
-- **Software Developer**  _Apr 2020 – Present_
+- **Head of Research and Development, Germany** _May 2024 – Feb 2025, Berlin, Germany_
+  - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
+
+- **Sr. engineer, software and quantum applications development**  _Nov 2021 – April 2024 Berlin, Germany_
+  - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
+
+- **Software and quantum applications development engineer**  _Apr 2021 – Oct 2024 Berlin, Germany_
+  - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
+
+- **Software Developer**  _Apr 2020 – Mar 2021 Berlin
   - AG Grötze, Institute of Chemistry and Biochemistry, Free University of Berlin
 
-- **Student Assistant** _Feb 2020 – Oct 2020_
+- **Student Assistant** _Feb 2020 – Oct 2020 Berlin, Germany_
   - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
   
-- **Research Assistant** _Jul 2016 – Jun 2017_
+- **Research Assistant** _Jul 2016 – Jun 2017 Taipei, Taiwan_
   - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
   
 ---
