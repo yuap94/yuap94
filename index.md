@@ -108,7 +108,7 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 > New capabilities of the gmx2qmmm software. ChemRxiv. 2024
 > Anders F, Jansen A, Alnicola N, Pi Y-W, Petry S, Kapp-Joswig J-O, et al. ;
-> [https://chemrxiv.org/engage/chemrxiv/article-details/670a6c3851558a15efdb0257]
+> [link](https://chemrxiv.org/engage/chemrxiv/article-details/670a6c3851558a15efdb0257)
 
 > A user‐friendly, Python‐based quantum mechanics/Gromacs interface: gmx2qmmm
 > Jan P. Götze, Yuan‐Wei Pi, Simon Petry, Fabian Langkabel,  Jan Felix Witte, Oliver Lemke
