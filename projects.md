@@ -21,13 +21,13 @@ As the backend manager responsible for building the app’s infrastructure, I wi
 ### Research projects
 
 
-#### Master thesis : _Interfaces between quantum chemistry and force field programs_
+#### Master thesis : _Interfaces between quantum chemistry and force field programs_ (Apr 2019 - Oct 2019)
 
 Jointly designed a python package gmx2qmmm, which links quantum mechanics software and molecular mechanics software to perform a quantum mechanics/molecular mechanics calculation. Especially worked on tests of energies and forces output with different bio-molecules. More utilities implementation are ongoing.
 
 - [Thesis](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Master_thesis.pdf)
 
-#### Master internship project :  _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
+#### Master internship project :  _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_ (Sep 2018 - Feb 2019)
 
 Used density functional theory (DFT) calculation with different functionals to observe nitrogen substitution effect on pyrene and its derivatives and analyzing the ground and excited state properties.
 
