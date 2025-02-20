@@ -4,12 +4,12 @@
 
 ### Software projects
 
-#### TODAY Fellowship Groups App—a global community where believers gather in small groups to fellowship and grow in faith and connection
+#### TODAY Fellowship Groups App—a global community where believers gather in small groups to fellowship and grow in faith and connection (Feb 2025 - current)
 
 As the backend manager responsible for building the app’s infrastructure, I will design and maintain the core systems that support its functionality. My key responsibilities include: developing the matching algorithm, managing the database, optimizing performance and scalability, ensuring security and data privacy and integrating with frontend and external services.
 
 
-#### [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation
+#### [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable)—a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation (Apr 2020 - Mar 2021)
 
 `gmx2qmmm` is a python package to bridge Gaussian and Gromacs. The test runs were performed using Gaussian16 and Gromacs 5.0.2, but the code should be able to read earlier Gaussian and other Gromacs versions. The only limits are the formats of the human-readable input and output files of each program, as such, conversion scripts can be written to make the interface work with any version, if the current code does not support it. Conceptually, gmx2qmmm creates a QM/MM potential and performs either single point calculations (i.e., the current energy of your system) or geometry optimizations. (Other ultilities are ongoing)
 
@@ -38,26 +38,26 @@ Used density functional theory (DFT) calculation with different functionals to o
 ### Hands-on projects
 
 
-#### _TDK Robocon_ (Oct 2015)
+#### _TDK Robocon_ (Feb 2015 - Oct 2015)
 
 Designed functions oriented robot including mechanism and control system, to participate _19th TDK robot competition_. The robot includes moving, gripping pen and ball, writing characters and shooting ball motions. Our team won **Judges’ Award**.
 
 - [Documentory](https://www.youtube.com/watch?v=H_iUjzjunIo)
 
-#### _Mechanical System Design and Practice_ (Jun 2015)
+#### _Mechanical System Design and Practice_ (Feb 2015 - Jun 2015)
 
 Designed functions oriented robot including mechanism and control system with limited budget. The robot participated _2015 Mechanical System Design and Practice Competetion_ at the mechanical faculty in National Taiwan University and Science and Technology. The robot was able to move, collect tennis ball and shoot the required target. Our team won **Honorable Mention / Best Creative Award**.
 
 - [Piece of testing](https://www.youtube.com/watch?v=HQaD9iXR8X8&feature=youtu.be)
 
 
-#### _Low-cost flowmeter_ ()
+#### _Low-cost flowmeter_ (Oct 2014 - Jul 2015)
 
 Jointly conceptualized, designed and developed this project with peers from Munich University of Applied Sciences, Germany. Designed mechanism and control system to measure flow rate with cheap material and display data through different program interfaces.
 
 - [Report](https://github.com/yuap94/yuap94/blob/gh-pages/pdf/Flow-Meter.pdf)
 
-#### _Wind turbine Generator implementation iPBL (international Project-Based Learning)_
+#### _Wind turbine Generator implementation iPBL (international Project-Based Learning)_ (Aug 2013)
 
 Jointly developed this project with peers from Osaka Institute of Science and technology, Japan. Designed high efficiency blades, aerodynamic compressing lens and supporting structure to improve the efficiency of the wind turbine power and output with 3D printing.
 
