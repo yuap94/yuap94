@@ -46,6 +46,7 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 #### Software projects
 
+- TODAY Fellowship Groups App—a global community where believers gather in small groups to fellowship and grow in faith and connection
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
 
 #### Research projects
