@@ -46,7 +46,7 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 #### Software projects
 
-- TODAY Fellowship Groups App—a global community where believers gather in small groups to fellowship and grow in faith and connection
+- TODAY Fellowship Groups App — a global community where believers gather in small groups to fellowship and grow in faith and connection
 - [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
 
 #### Research projects
@@ -105,6 +105,10 @@ _Engineering expert turned strategic leader—passionate about blending technica
 ---
 
 ## Publication
+
+> New capabilities of the gmx2qmmm software. ChemRxiv. 2024
+> Anders F, Jansen A, Alnicola N, Pi Y-W, Petry S, Kapp-Joswig J-O, et al. ;
+> [https://chemrxiv.org/engage/chemrxiv/article-details/670a6c3851558a15efdb0257]
 
 > A user‐friendly, Python‐based quantum mechanics/Gromacs interface: gmx2qmmm
 > Jan P. Götze, Yuan‐Wei Pi, Simon Petry, Fabian Langkabel,  Jan Felix Witte, Oliver Lemke
