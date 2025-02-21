@@ -27,7 +27,7 @@ _Passionate about integrating technical excellence with strategic leadership to 
 
 _May 2024 – Feb 2025, Berlin, Germany_
 
-- Managed **strategic analysis and system design** for UAV infrastructure, integrating **GNSS**, **wireless modems**, and **IoT networks**.
+- Managed **strategic analysis and system design** for unmanned aerial vehicles (UAV) infrastructure, integrating **GNSS**, **wireless modems**, and **IoT networks**.
 - Managed **technology transfer** (inbound/outbound) and collaborated with industry stakeholders.
 - Conducted **market research** on UAV applications and optimized product performance.
 - Advised **customers and partners** on system optimization. 
