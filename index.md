@@ -51,6 +51,7 @@ _May 2024 – Feb 2025, Berlin, Germany_
 - _Low-cost flowmeter_ (Oct 2014 - Jul 2015)
 - _Wind turbine Generator implementation iPBL_ (Aug 2013)
 
+<!--
 ---
 
 ## Skills
@@ -81,22 +82,21 @@ _May 2024 – Feb 2025, Berlin, Germany_
   - English (business fluent)
   - German (intermediate)
   - Janpanese (beginner)
+-->
+---
+
+## Certificate
+Remote Pilot Certification (A1/A3 and A2)
+- EASA - European Union Aviation Safety Agency, issued Jul 2024 · Expires Jul 2029
+
+
+IBM AI Engineering Courses on Coursera
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7) (Issued Jan 2021)
+- [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS) (Issued Jan 2021)
 
 ---
 
-
-## Awards
-
-- **19th TDK Robocon, Taiwan** _Oct 2015_
-  - Judges' Award
-
-- **Mechanical System Design and Practice, NTUST** _Jun 2015_
-  - Honorable Mention / Best Creative Award
-
-
----
-
-## Publication
+## Publications
 
 > New capabilities of the gmx2qmmm software. ChemRxiv. 2024
 > Anders F, Jansen A, Alnicola N, Pi Y-W, Petry S, Kapp-Joswig J-O, et al. ;
@@ -108,15 +108,13 @@ _May 2024 – Feb 2025, Berlin, Germany_
 
 ---
 
-## Certificate
-Remote Pilot Certification (A1/A3 and A2)
-- EASA - European Union Aviation Safety Agency, issued Jul 2024 · Expires Jul 2029
+## Awards
 
+- **19th TDK Robocon, Taiwan** _Oct 2015_
+  - Judges' Award
 
-
-IBM AI Engineering Courses on Coursera
-- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7) (Issued Jan 2021)
-- [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS) (Issued Jan 2021)
+- **Mechanical System Design and Practice, NTUST** _Jun 2015_
+  - Honorable Mention / Best Creative Award
 
 ---
 
