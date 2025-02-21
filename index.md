@@ -31,6 +31,7 @@ _May 2024 – Feb 2025, Berlin, Germany_
 - Managed **technology transfer** (inbound/outbound) and collaborated with industry stakeholders.
 - Conducted **market research** on UAV applications and optimized product performance.
 - Advised **customers and partners** on system optimization. 
+
 ---
 
 ## Projects  <sub><sup> [_See details_](projects)</sup></sub>
