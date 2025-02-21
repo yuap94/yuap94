@@ -20,44 +20,35 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 ---
 
-## Work Experience  <sub><sup> [_See previous details_](experience)</sup></sub>
+## Latest Professional Experience  <sub><sup> [_See previous details_](experience)</sup></sub>
 
-- **Head of Research and Development, Germany** _May 2024 – Feb 2025, Berlin, Germany_
-  - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
+### Head of Research and Development, Germany 
+[Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
 
-- **Sr. engineer, software and quantum applications development**  _Nov 2021 – April 2024 Berlin, Germany_
-  - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
+_May 2024 – Feb 2025, Berlin, Germany_
 
-- **Software and quantum applications development engineer**  _Apr 2021 – Oct 2024 Berlin, Germany_
-  - [Electric Visionary Aircrafts (EVA)](https://eva.xyz/)
-
-- **Software Developer**  _Apr 2020 – Mar 2021 Berlin_
-  - AG Grötze, Institute of Chemistry and Biochemistry, Free University of Berlin
-
-- **Student Assistant** _Feb 2020 – Oct 2020 Berlin, Germany_
-  - Free-Space Optical Systems, Photonic Networks and Systems Group, Fraunhofer Heinrich Hertz Institute HHI
-  
-- **Research Assistant** _Jul 2016 – Jun 2017 Taipei, Taiwan_
-  - Industry 4.0 Implementation Center, National Taiwan University of Science and Technology
-  
+- Managed **strategic analysis and system design** for UAV infrastructure, integrating **GNSS**, **wireless modems**, and **IoT networks**.
+- Managed **technology transfer** (inbound/outbound) and collaborated with industry stakeholders.
+- Conducted **market research** on UAV applications and optimized product performance.
+- Advised **customers and partners** on system optimization. 
 ---
 
 ## Projects  <sub><sup> [_See details_](projects)</sup></sub>
 
 #### Software projects
 
-- TODAY Fellowship Groups App — a global community where believers gather in small groups to fellowship and grow in faith and connection
-- [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
+- TODAY Fellowship Groups App (Feb 2025 - current) — a global community where believers gather in small groups to fellowship and grow in faith and connection
+- [gmx2qmmm](https://github.com/gmx2qmmm/gmx2qmmm_portable) (Apr 2020 - Mar 2021) — _a python interface for Quantum mechanics/Molecular mechanics (QM/MM) calculation_
 
 #### Research projects
-- _Interfaces between quantum chemistry and force field programs_
-- _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_
+- Master thesis: _Interfaces between quantum chemistry and force field programs_ (Apr 2019 - Oct 2019)
+- Master internship project: _Ground and excited state properties of pyrene, azapyrene, diazapyrene and derivatives_ (Sep 2018 - Feb 2019)
 
 #### Hands-on projects
-- _TDK Robocon_
-- _Mechanical System Design and Practice_
-- _Low-cost flowmeter_
-- _Wind turbine Generator implementation iPBL_
+- _TDK Robocon_ (Feb 2015 - Oct 2015)
+- _Mechanical System Design and Practice_ (Feb 2015 - Jun 2015)
+- _Low-cost flowmeter_ (Oct 2014 - Jul 2015)
+- _Wind turbine Generator implementation iPBL_ (Aug 2013)
 
 ---
 
@@ -116,10 +107,15 @@ _Engineering expert turned strategic leader—passionate about blending technica
 
 ---
 
-## Certifications
+## Certificate
+Remote Pilot Certification (A1/A3 and A2)
+- EASA - European Union Aviation Safety Agency, issued Jul 2024 · Expires Jul 2029
+
+
+
 IBM AI Engineering Courses on Coursera
-- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7)
-- [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS)
+- [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/66HWK2LF8EC7) (Issued Jan 2021)
+- [AI Capstone Project with Deep Learning](https://www.coursera.org/account/accomplishments/certificate/SMEEPHMJGTUS) (Issued Jan 2021)
 
 ---
 
